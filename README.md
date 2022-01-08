@@ -1,7 +1,7 @@
 # machineLearning-workspace
-Machine Learning A-Z™: Hands-On Python &amp; R In Data Science
-Progress By: Mia Weber
-08-Jan-2022 - 00/NAN/2022
+Machine Learning A-Z™: Hands-On Python &amp; R In Data Science\
+Progress By: Mia Weber\
+08-Jan-2022 - 00/NAN/2022\
 
 # **Part 1 - Data Reprocessing**
 | Name| Value|
