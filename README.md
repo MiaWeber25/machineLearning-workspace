@@ -59,3 +59,10 @@ Progress By: Mia Weber\
 | **Date**   |00-NAN-2022|
 | **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%208%20-%20Deep%20Learning)|
 | **Notes**      |Insert link to google drive notes location
+
+# **Part 9- Dimensionality Reduction**
+| Name| Value|
+|----------------|:---------------------------------------|
+| **Date**   |00-NAN-2022|
+| **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%209%20-%20Dimensionality%20Reduction)|
+| **Notes**      |Insert link to google drive notes location
