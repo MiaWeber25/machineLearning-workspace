@@ -66,3 +66,10 @@ Progress By: Mia Weber\
 | **Date**   |00-NAN-2022|
 | **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%209%20-%20Dimensionality%20Reduction)|
 | **Notes**      |Insert link to google drive notes location
+
+# **Part 10- Model Selection Boosting**
+| Name| Value|
+|----------------|:---------------------------------------|
+| **Date**   |00-NAN-2022|
+| **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%2010%20-%20Model%20Selection%20_%20Boostingn)|
+| **Notes**      |Insert link to google drive notes location
