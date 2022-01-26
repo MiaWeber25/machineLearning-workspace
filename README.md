@@ -8,7 +8,7 @@ Progress By: Mia Weber\
 |----------------|:---------------------------------------|
 | **Date**   |08-Jan-2022|
 | **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%201%20-%20Data%20Preprocessing/Section%202%20--------------------%20Part%201%20-%20Data%20Preprocessing%20--------------------)|
-| **Notes**      |[view google drive notes here] (https://docs.google.com/document/d/16p3K8QeFPFpYxYO0mxm3dVERRvjs9P1-XQy0htDhH-I/edit?usp=sharing)
+| **Notes**      |[view google drive notes here](https://docs.google.com/document/d/16p3K8QeFPFpYxYO0mxm3dVERRvjs9P1-XQy0htDhH-I/edit?usp=sharing)
 
 
 # **Part 2 - Regression**
