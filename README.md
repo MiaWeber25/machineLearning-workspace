@@ -7,7 +7,7 @@ Progress By: Mia Weber\
 | Name| Value|
 |----------------|:---------------------------------------|
 | **Date**   |08-Jan-2022|
-| **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/tree/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%201%20-%20Data%20Preprocessing/Section%202%20--------------------%20Part%201%20-%20Data%20Preprocessing%20--------------------)|
+| **Location**   |[located here](https://github.com/MiaWeber25/machineLearning-workspace/blob/main/Machine%20Learning%20A-Z%20(Codes%20and%20Datasets)/Part%201%20-%20Data%20Preprocessing/Section%202%20--------------------%20Part%201%20-%20Data%20Preprocessing%20--------------------/Python/Copy_of_data_preprocessing_tools.ipynb)|
 | **Notes**      |Insert link to google drive notes location
 
 
